@@ -1,4 +1,4 @@
-### ⚙️ &nbsp;GitHub Analytics
+## &#x1f4c8; My Stats
 
 <p align="center">
   <a href="https://github.com/Kveggjeter">
