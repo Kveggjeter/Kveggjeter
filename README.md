@@ -1,6 +1,6 @@
 
 <a href="https://github.com/Kveggjeter">
-  <img src="https://i.imgur.com/tcoPz31.png" alt="Header" width="100%" height="350em" />
+  <img src="https://i.imgur.com/tcoPz31.png" alt="Header" width="100%" height="300em" />
 </a>
 
 # Welcome to the saloon, partner
