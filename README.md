@@ -2,9 +2,9 @@
   <img src="https://i.imgur.com/tcoPz31.png" alt="Header" width="100%" height="350em" />
 </a>
 
-# Welcome to the prairie, partner
+# Welcome to the saloon, partner
 
-## &#x1f4c8; My Stats
+## &#x1F3DE; My Stats
 
 <p align="center">
   <a href="https://github.com/Kveggjeter">
