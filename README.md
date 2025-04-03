@@ -1,3 +1,9 @@
+<a href="https://github.com/Kveggjeter">
+  <img src="https://i.imgur.com/tcoPz31.png" alt="Header" width="600em" height="300em" />
+</a>
+
+# Welcome to the prairie, partner
+
 ## &#x1f4c8; My Stats
 
 <p align="center">
